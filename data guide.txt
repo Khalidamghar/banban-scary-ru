@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1kx8ZP.jpg",
+      "title": "banban scary ru 1",
+        "text_Content": "Banning scary content is a highly debated topic that raises various ethical, moral, and legal questions. On one hand, some argue that frightening material can cause emotional distress and harm to vulnerable individuals, particularly children. On the other hand, others argue that limiting access to such content goes against the principles of freedom of speech and expression..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1kxvwB.jpg",
+      "title": "banban scary ru 2",
+        "text_Content": "One of the primary concerns regarding scary content is its potential impact on children. Children are especially vulnerable to the effects of frightening material as their brains are still developing and they may not have the maturity to process and cope with frightening experiences. For instance, exposure to violent or frightening material can lead to increased anxiety, sleep disturbances, and nightmares. ",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1kxOyQ.jpg",
+      "title": "banban scary ru 3",
+        "text_Content": "Moreover, repeated exposure to such content can desensitize children to violence, making it more difficult for them to differentiate between real and fictional violence.",
+        "text_Content_1": "."
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1kxX6u.jpg",
+      "title": "banban scary ru 4",
+        "text_Content": "However, many advocates of freedom of speech argue that it is not the role of the government or any other entity to determine what people can or cannot watch or read. They argue that people should have the right to choose what they want to consume and that limiting access to scary content goes against the principles of a free society. Furthermore, ",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1kxUn1.jpg",
+      "title": "banban scary ru 5",
+        "text_Content": "many people argue that art, literature, and other forms of expression can be a valuable source of exploration and self-discovery, and that banning scary content would limit the ability of individuals to express themselves in these ways..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1kxPcJ.jpg",
+      "title": "banban scary ru 6",
+        "text_Content": "There is also the argument that scary content can serve as a means of catharsis, allowing people to explore their fears and anxieties in a controlled and safe environment. This can help individuals better understand and process their emotions, leading to a greater sense of emotional well-being. ",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1kxi8v.jpg",
+      "title": "banban scary ru 7",
+        "text_Content": "However, despite these arguments, there is no denying that frightening material can cause harm to vulnerable individuals. For instance, research has shown that exposure to violent media can lead to increased aggression and desensitization to violence. Additionally, ",
+        "text_Content_1": "."
 
 
 
